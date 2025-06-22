@@ -6,7 +6,7 @@ import { X, ChevronLeft, ChevronRight, Filter, Sun, Moon } from 'lucide-react';
 const sampleImages = [
   {
     id: 1,
-    src: 'https://img.freepik.com/premium-photo/black-car-with-number-8-front_939992-5249.jpg?ga=GA1.1.868698378.1750583670&semt=ais_hybrid&w=740',
+    src: 'https://img.freepik.com/free-photo/3d-car-with-simple-background_23-2150796880.jpg?ga=GA1.1.868698378.1750583670&semt=ais_hybrid&w=740',
     title: 'Performance SUVs',
     category: 'Cars',
     date: '2024-03-15'
@@ -48,7 +48,7 @@ const sampleImages = [
   },
   {
     id: 7,
-    src: 'https://img.freepik.com/free-photo/luxury-car-speeds-by-modern-building-dusk-generative-ai_188544-8048.jpg?ga=GA1.1.868698378.1750583670&semt=ais_hybrid&w=740',
+    src: 'https://img.freepik.com/premium-photo/luxury-car-private-jet_551707-44606.jpg?ga=GA1.1.868698378.1750583670&semt=ais_hybrid&w=740',
     title: 'Lurxury Car',
     category: 'Cars',
     date: '2024-02-25'
@@ -76,7 +76,7 @@ const sampleImages = [
   },
    {
     id: 11,
-    src: 'https://img.freepik.com/premium-photo/car-future-is-supercar_1153744-185593.jpg?ga=GA1.1.868698378.1750583670&semt=ais_hybrid&w=740',
+    src: 'https://img.freepik.com/free-photo/night-drive-supercar_23-2151955579.jpg?ga=GA1.1.868698378.1750583670&semt=ais_hybrid&w=740',
     title: 'Supercars',
     category: 'Cars',
     date: '2024-02-25'
